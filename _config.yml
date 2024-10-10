@@ -25,7 +25,7 @@ author:
   name             : "BaiQi"
   pronouns         : # example: "she/her"  
   bio              : "Though life is hard, I want it to be boiling."
-  location         : "KunMing"
+  location         : "China KunMing"
   employer         : "Yunnan University"
   uri              : # URL
   email            : "qibai918@163.com" 
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
