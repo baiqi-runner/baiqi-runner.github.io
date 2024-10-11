@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BaiQi/Personal HomePage"
+title                    : "BaiQi/Personal Home"
 title_separator          : "-"
 name                     : &name "BaiQi"
 description              : &description "personal description"
